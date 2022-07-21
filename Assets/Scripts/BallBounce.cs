@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class BounceMe : MonoBehaviour
+public class BallBounce : MonoBehaviour
 {
     public GameObject SensorData; // DON'T FORGET: add wrmhlRead to hierarchy and check it off
     wrmhlRead wrmhlRead;
