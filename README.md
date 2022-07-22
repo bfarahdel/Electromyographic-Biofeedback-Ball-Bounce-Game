@@ -1,6 +1,6 @@
 # Electromyographic Biofeedback Ball Bounce Game
 
-Signals from EMG electrodes in the MyoWare muscle sensor control player movement in a game involving a ball that will bounce to a greater height based on correct timing of signal feedback from the user.
+Signals from EMG electrodes in the MyoWare muscle sensor control player movement in a PC game involving a ball that will bounce to a greater height based on correct timing of signal feedback from the user.
 
 Click on the image below to view a video demo.
 
